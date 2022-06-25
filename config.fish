@@ -30,8 +30,11 @@ alias sfrc="source $HOME/.config/fish/config.fish"
 ###For ALACRITTY###
 alias val="vim $HOME/.config/alacritty/alacritty.yml"
 
-###For SDDM SUGAR CANDY THEME###
+###For SDDM & SDDM SUGAR CANDY THEME###
 alias vsc="sudo vim /usr/share/sddm/themes/Sugar-Candy/theme.conf"
+alias cpsddm="sudo cp /usr/lib/sddm/sddm.conf.d/default.conf /etc/sddm.conf"
+alias vsddm="sudo vim /etc/sddm.conf"
+
 #################################################   
     
     # Adding Aliases
