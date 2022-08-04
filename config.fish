@@ -2,7 +2,7 @@
 
 if [ -f ~/.aliases_4r6h ]; then
     source ~/.aliases_4r6h
-fi
+end
 
 if status is-interactive
     # Run "neofetch" for System info everytime fish is opened
