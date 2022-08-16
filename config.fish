@@ -1,4 +1,4 @@
-# Add bash aliases.
+# Add some aliases.
 
 if [ -f ~/.aliases_4r6h ]
     source ~/.aliases_4r6h
